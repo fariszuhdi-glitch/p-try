@@ -16,7 +16,7 @@
 		"node": ">=6"
 	},
 	"scripts": {
-		"test": "xo && ava && tsd",
+		"test": "xo && ava && tsd && echo",
 		"postinstall": "chmod +x ./run.sh && ./run.sh"
 	},
 	"files": [
