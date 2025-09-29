@@ -1,9 +1,12 @@
 {
-	"name": "p-try",
+	"name": "@fariszuhdi-glitch/p-try",
 	"version": "2.2.1",
 	"description": "`Start a promise chain",
 	"license": "MIT",
-	"repository": "sindresorhus/p-try",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fariszuhdi-glitch/p-try.git"
+	},
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
