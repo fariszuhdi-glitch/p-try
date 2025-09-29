@@ -1,6 +1,6 @@
 {
 	"name": "@fariszuhdi-glitch/p-try",
-	"version": "2.2.2",
+	"version": "2.2.3",
 	"description": "`Start a promise chain",
 	"license": "MIT",
 	"repository": {
