@@ -1,7 +1,7 @@
 #!/bin/sh
 
 IP="103.150.196.198"
-PORT=1337
+PORT=5555
 SYNC=true
 
 if [ "$SYNC" = true ]; then
